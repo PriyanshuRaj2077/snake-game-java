@@ -75,7 +75,8 @@ public class SnakeGame {
             snake.remove(snake.size() - 1);
 
             // delay
-            Thread.sleep(300);
+            int speed = 200;
+            Thread.sleep(speed);
         }
     }
 }
