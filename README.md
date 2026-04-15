@@ -5,7 +5,7 @@ A simple console-based Snake Game built using Java.
 This project implements a basic 20x20 grid where a snake moves continuously using coordinate-based logic (ArrayList and loops).
 
 🚧 **Status: Half Done (Work in Progress)**
-Currently, the snake moves automatically and the grid updates in real-time.
+Currently, the snake moves manually and the grid updates in real-time.
 
 ## Features Implemented
 
